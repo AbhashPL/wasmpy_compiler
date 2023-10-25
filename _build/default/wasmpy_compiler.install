@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/wasmpy_compiler/META"
+  "_build/install/default/lib/wasmpy_compiler/dune-package"
+  "_build/install/default/lib/wasmpy_compiler/opam"
+]
+bin: [
+  "_build/install/default/bin/wasmpy_compiler"
+]
